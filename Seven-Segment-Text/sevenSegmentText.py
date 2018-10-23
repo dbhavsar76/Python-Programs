@@ -79,6 +79,7 @@ def setup():
 	background(0)
 	no_loop()
 	print('Enter text to display it in seven segment display format.')
+	print('Click anywhere on the canvas to enter text in console.')
 	print('Following charecters are not supported: g, i, k, m, o, q, v, w, x, z')
 
 def mouse_pressed():
